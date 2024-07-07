@@ -2,7 +2,7 @@
 
 `Everybody is a nerd. You just gotta find the right type.`
 
-Hi! I am Yang, and welcome to my Github Profile! 🎉
+Hi! I am Yang, and welcome to my GitHub Profile! 🎉
 
 ## 😁 More About Me
 
