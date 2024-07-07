@@ -67,11 +67,6 @@ I am an undergraduate pursuing a BS in Applied Mathematics and combined MS in Co
 <img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 <br/>
 
-### 📦 Miscellaneous
-
-
-<br/>
-
 </div>
 
 </div>
