@@ -76,16 +76,15 @@ I am an undergraduate pursuing a BS in Applied Mathematics and combined MS in Co
 
 ## 💡 Contributions
 
+<!--
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <div style="flex: 1; margin-right: 20px; ">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=XYLiu9357/&theme=blueberry-duo)](https://git.io/streak-stats/)
 
-  </div>
+</div>
+-->
 
-  <div style="flex: 1; ">
-
+<div>
 ![XYLiu9357's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XYLiu9357&theme=github-compact&height=420)
-
-  </div>
 </div>
