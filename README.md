@@ -1,10 +1,10 @@
 # 😸 XYLiu9357 == Yang
 
+`Everybody is a nerd. You just gotta find the right type.`
+
 Hi! I am Yang and welcome to my Github Profile! 🎉
 
 ## 😁 More About Me
-
-`Everybody is a nerd. You just gotta find the right type.`
 
 I am an undergraduate pursuing a BS in Applied Mathematics and combined MS in Computer Science at Northwestern University. When I'm not drowning (but having fun) in equations or code, I'm probably working on some niche and fun online puzzle or plotting my next billiards game. Ball on! 🎱
 
