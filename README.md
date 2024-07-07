@@ -71,6 +71,8 @@ I am an undergraduate pursuing a BS in Applied Mathematics and combined MS in Co
 
 </div>
 
+---
+
 ## 📊 Stats
 
 <!--
