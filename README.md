@@ -10,7 +10,7 @@ I am an undergraduate pursuing a BS in Applied Mathematics and combined MS in Co
 
 ## 🧠 Knowledge Nuggets
 
-- Scientific Computing: Mix OpenMP, MPI, and CUDA with Finite Difference and Monte Carlo for an ultra-fast numerical cocktail.
+- Scientific Computing: Assemble OpenMP, MPI, and CUDA with Finite Difference and Monte Carlo for a supercharged numerical engine.
 - Machine Learning: From decision trees to neural networks, I've dabbed in a bunch of AI buzzwords. Like the code, love the math!
 - Data Structure & Algorithms: Sorting, searching, and optimizing my way to efficiency like a digital Indiana Jones.
 - Web Development: Turn coffee into code and pixels into perfection with HTML, CSS, JavaScript, and React.
