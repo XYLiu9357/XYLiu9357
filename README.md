@@ -63,8 +63,6 @@ I am an undergraduate pursuing a BS in Applied Mathematics and combined MS in Co
 <br/>
 <br/>
 
-## 📊 Stats
-
 <!--
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <div style="flex: 1; margin-right: 20px; ">
@@ -75,6 +73,8 @@ I am an undergraduate pursuing a BS in Applied Mathematics and combined MS in Co
 -->
 
 <!--
+## 📊 Stats
+
 <div>
 ![XYLiu9357's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XYLiu9357&theme=github-compact&height=420)
 </div>
