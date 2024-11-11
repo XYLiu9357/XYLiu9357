@@ -1,7 +1,5 @@
 # 😸 XYLiu9357 == Yang
 
-`Everybody is a nerd. You just gotta find the right type.`
-
 Hi! I am Yang, and welcome to my GitHub Profile! 🎉
 
 ## 😁 More About Me
