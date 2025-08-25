@@ -1,7 +1,7 @@
 ## About Me
 
 - Pursuing BS in Applied Math and MS in Computer Science.
-- Enjoys wresting and fumbling with code of all kinds.
+- Code & Puzzle Enthusiast.
 
 ## Contacts
 
